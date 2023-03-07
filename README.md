@@ -2,7 +2,7 @@ Hello! :>
 
 I'm a sophmore studying in **Computer Science, Physics, and Logic** at **Syracuse Unviersity**. 
 
-You can reach out to me at [neoneill@syr.edu](mailto:neoneill@syr.edu). 
+You can reach out to me at [neoneill@syr.edu](mailto:neoneill@syr.edu) or through discord (@nico<3#9605).
 
 In the past, I have collaborated on economics research under Professor Kristy Buzard which can be found here:
 
