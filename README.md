@@ -13,4 +13,4 @@ I have also worked on many personal projects in my free time which can be found 
 - [Uber Data Analysis](https://github.com/ninoc0/Uber-Data-Analysis)
 
 This spring semester I have taken on an indepedent study in Computational Physics, which can be found here:
-- [Computational Physics Projects]
+- [Computational Physics Projects](https://github.com/ninoc0/Computational-Physics-Projects)
