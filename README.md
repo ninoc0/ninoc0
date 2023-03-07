@@ -1,6 +1,6 @@
 Hello! :>
 
-I'm a sophmore studying in Computer Science, Physics, and Logic at Syracuse Unviersity. 
+I'm a sophmore studying in **Computer Science, Physics, and Logic** at **Syracuse Unviersity**. 
 
 You can reach out to me at [neoneill@syr.edu](mailto:neoneill@syr.edu). 
 
