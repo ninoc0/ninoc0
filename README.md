@@ -1,6 +1,6 @@
 Hello! :>
 
-I'm a sophmore studying in **Computer Science, Physics, and Logic** at **Syracuse Unviersity**. 
+I'm a junior studying in **Physics and Computer Science** at **Syracuse University**. 
 
 You can reach out to me at [neoneill@syr.edu](mailto:neoneill@syr.edu) or through discord (@nico<3#9605).
 
@@ -12,5 +12,8 @@ I have also worked on many personal projects in my free time which can be found 
 - [Computational SIR Model](https://github.com/ninoc0/Computational_SIR_Model)
 - [Uber Data Analysis](https://github.com/ninoc0/Uber-Data-Analysis)
 
-This spring semester I have taken on an indepedent study in Computational Physics, which can be found here:
+Spring 2024 I have taken on an independent study in Computational Physics, which can be found here:
 - [Computational Physics Projects](https://github.com/ninoc0/Computational-Physics-Projects)
+
+My most recent project is a research job under Professor Craig Cahillane, which can be found here:
+- [Research]
