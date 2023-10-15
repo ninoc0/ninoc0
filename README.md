@@ -12,7 +12,7 @@ I have also worked on many personal projects in my free time which can be found 
 - [Computational SIR Model](https://github.com/ninoc0/Computational_SIR_Model)
 - [Uber Data Analysis](https://github.com/ninoc0/Uber-Data-Analysis)
 
-Spring 2024 I have taken on an independent study in Computational Physics, which can be found here:
+In spring of 2024 I took on an independent study in Computational Physics, which can be found here:
 - [Computational Physics Projects](https://github.com/ninoc0/Computational-Physics-Projects)
 
 My most recent project is a research job under Professor Craig Cahillane, which can be found here:
