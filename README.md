@@ -16,4 +16,4 @@ Spring 2024 I have taken on an independent study in Computational Physics, which
 - [Computational Physics Projects](https://github.com/ninoc0/Computational-Physics-Projects)
 
 My most recent project is a research job under Professor Craig Cahillane, which can be found here:
-- [Research]
+- [Research](https://github.com/ninoc0/Research)
