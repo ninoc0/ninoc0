@@ -17,7 +17,7 @@ In spring of 2022 I took on an independent study in Computational Physics, which
 
 My most recent project(October 2023-Current) is a research job under Professor Craig Cahillane, which can be found here:
 - [Research](https://github.com/ninoc0/Research)
-- Check out my research [poster](https://github.com/ninoc0/Research/blob/main/Research-Poster.png)!
+- [Poster](https://github.com/ninoc0/Research/blob/main/Research-Poster.png)!
 
 For more information about what I am working on, check my [gitlab](https://gitlab.com/ninoc0)!
 
