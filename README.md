@@ -1,8 +1,10 @@
 Hello! :>
 
-I'm a junior studying in **Physics and Computer Science** at **Syracuse University**. 
+I'm a senior studying in **Physics and Computer Science** at **Syracuse University**. 
 
 You can reach out to me at [neoneill@syr.edu](mailto:neoneill@syr.edu) or through discord (@nin.oco).
+
+Check out my [website](https://ninoc0.github.io/home/)!
 
 In the past, I have collaborated on economics research under Professor Kristy Buzard which can be found here:
 
