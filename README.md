@@ -1,6 +1,6 @@
 Hello! :>
 
-I'm a senior studying in **Physics and Computer Science** at **Syracuse University**. 
+I'm a first-year graduate student studying **Physics** at **Syracuse University**. 
 
 You can reach out to me at [neoneill@syr.edu](mailto:neoneill@syr.edu) or through discord (@nin.oco).
 
