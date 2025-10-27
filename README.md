@@ -21,7 +21,7 @@ In the spring of 2022, I took on an independent study in Computational Physics, 
 
 As a  graduate student, I took a higher-level computation course, as well as an electrical engineering and design course:
 - [Graduate Computational Physics](https://github.com/ninoc0/phy_607)
-- [Discrete and Integrated Analog Electronic Circuits]
+- [Discrete and Integrated Analog Electronic Circuits](https://github.com/ninoc0/ele_633)
 
 ## Personal Projects
 I have also worked on many personal projects in my free time, which can be found here:
